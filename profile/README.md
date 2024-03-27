@@ -1,12 +1,7 @@
-## Hi there 👋
+# Ro-Archive.xyz
 
-<!--
+Welcome to Ro-Archive.xyz!
 
-**Here are some ideas to get you started:**
+## About Us
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Ro-Archive.xyz is a public organization dedicated to preserving and sharing the cultural heritage of Ro, an online community platform. We aim to document the history, achievements, and creativity of Ro users, ensuring that their contributions are not lost to time.
